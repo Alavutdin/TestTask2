@@ -13,6 +13,7 @@ class VehicleTest {
         Car car = new Car("Dodge", "Ram", 2010);
 
         assertTrue(car instanceof Vehicle);
+
     }
 
     /**  Проверяем, что объект Car
