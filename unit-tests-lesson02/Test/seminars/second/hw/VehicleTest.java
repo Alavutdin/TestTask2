@@ -14,6 +14,7 @@ class VehicleTest {
 
         assertTrue(car instanceof Vehicle);
 
+
     }
 
     /**  Проверяем, что объект Car
